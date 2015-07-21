@@ -9,10 +9,8 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "@cycle/core": "1.0.0-rc1",
-    "@cycle/web": "1.0.x",
-    "todomvc-app-css": "^1.0.0",
-    "todomvc-common": "^1.0.1",
+    "@cycle/core": "^1.0.1",
+    "@cycle/dom": "^3.0.0",
     "babel": "^5.1.13",
     "babelify": "^6.0.2",
     "uglify-js": "2.4.23",
